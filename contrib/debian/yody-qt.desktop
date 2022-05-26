@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Yody Core
+Comment=Connect to the Yody P2P Network
+Exec=yody-qt %u
+Terminal=false
+Type=Application
+Icon=yody128
+MimeType=x-scheme-handler/yody;
+Categories=Network;
+StartupWMClass=Yody-qt
+Name[en_US]=yody-qt
